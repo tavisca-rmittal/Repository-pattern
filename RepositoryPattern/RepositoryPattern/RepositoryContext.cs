@@ -1,11 +1,17 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using RepositoryPattern.Models;
+using Microsoft.EntityFrameworkCore;
+
 
 namespace RepositoryPattern
 {
-    public class RepositoryContext
+    public class RepositoryContext : DbContext
     {
+        public RepositoryContext(DbContextOptions options)
+           : base(options)
+        {
+        }
+        public DbSet<Customer> Customers { get; set; }
+        public DbSet<Account> Accounts { get; set; }
     }
 }
