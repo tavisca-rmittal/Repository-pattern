@@ -1,0 +1,14 @@
+C:\Users\rmittal\Desktop\TAVISCA\RepositoryPattern\RepositoryPattern\bin\Debug\netcoreapp2.2\RepositoryPattern.deps.json
+C:\Users\rmittal\Desktop\TAVISCA\RepositoryPattern\RepositoryPattern\bin\Debug\netcoreapp2.2\RepositoryPattern.runtimeconfig.json
+C:\Users\rmittal\Desktop\TAVISCA\RepositoryPattern\RepositoryPattern\bin\Debug\netcoreapp2.2\RepositoryPattern.runtimeconfig.dev.json
+C:\Users\rmittal\Desktop\TAVISCA\RepositoryPattern\RepositoryPattern\bin\Debug\netcoreapp2.2\RepositoryPattern.dll
+C:\Users\rmittal\Desktop\TAVISCA\RepositoryPattern\RepositoryPattern\obj\Debug\netcoreapp2.2\RepositoryPattern.csprojResolveAssemblyReference.cache
+C:\Users\rmittal\Desktop\TAVISCA\RepositoryPattern\RepositoryPattern\obj\Debug\netcoreapp2.2\RepositoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\rmittal\Desktop\TAVISCA\RepositoryPattern\RepositoryPattern\obj\Debug\netcoreapp2.2\RepositoryPattern.RazorAssemblyInfo.cache
+C:\Users\rmittal\Desktop\TAVISCA\RepositoryPattern\RepositoryPattern\obj\Debug\netcoreapp2.2\RepositoryPattern.RazorAssemblyInfo.cs
+C:\Users\rmittal\Desktop\TAVISCA\RepositoryPattern\RepositoryPattern\obj\Debug\netcoreapp2.2\RepositoryPattern.AssemblyInfoInputs.cache
+C:\Users\rmittal\Desktop\TAVISCA\RepositoryPattern\RepositoryPattern\obj\Debug\netcoreapp2.2\RepositoryPattern.AssemblyInfo.cs
+C:\Users\rmittal\Desktop\TAVISCA\RepositoryPattern\RepositoryPattern\obj\Debug\netcoreapp2.2\RepositoryPattern.RazorTargetAssemblyInfo.cache
+C:\Users\rmittal\Desktop\TAVISCA\RepositoryPattern\RepositoryPattern\bin\Debug\netcoreapp2.2\RepositoryPattern.pdb
+C:\Users\rmittal\Desktop\TAVISCA\RepositoryPattern\RepositoryPattern\obj\Debug\netcoreapp2.2\RepositoryPattern.dll
+C:\Users\rmittal\Desktop\TAVISCA\RepositoryPattern\RepositoryPattern\obj\Debug\netcoreapp2.2\RepositoryPattern.pdb
